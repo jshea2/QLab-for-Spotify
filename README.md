@@ -28,3 +28,6 @@ QLab file with script templates to control parameters in Spotify
 
 
 <img width="449" alt="Screen Shot 2021-04-21 at 9 31 37 PM" src="https://user-images.githubusercontent.com/70780576/115656761-99b8bc80-a2ea-11eb-8ae3-83b7214b4a84.png">
+
+### Acknowledgements:
+- Inspired by [QSpotify](https://alecsparks.com/QSpotify)
