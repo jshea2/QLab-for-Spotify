@@ -3,7 +3,7 @@ QLab file with script templates to control parameters in Spotify
 
 *Requires one of the QLab 4 Pro licenses*
 
-[Download Now](https://github.com/jshea2/QLab-for-Spotify/releases)
+[Download Show File](https://github.com/jshea2/QLab-for-Spotify/releases)
 
 ## Features
 - Open Spotify
